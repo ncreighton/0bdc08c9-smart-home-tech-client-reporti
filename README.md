@@ -1,2 +1,25 @@
-# 0bdc08c9-smart-home-tech-client-reporti
-smart home tech professionals waste hours on starting from a blank document every single time. This fixes that.  Ready to use immediately — open, fill in your details, done. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Smart Home Tech Client Reporting Dashboard — fully configured and ready to use
+# Smart Home Tech Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI28rdPpgaUg885bucZy0s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI28rdPpgaUg885bucZy0s)
+
